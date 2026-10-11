@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Mutation and Cache Invalidation",
+    "slug": "mutation-cache-invalidation",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "sdkVersion": "54.0.0"
+  }
+}
